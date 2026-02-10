@@ -1,1 +1,1 @@
-console.log("installation process")
+console.log("system set up")
