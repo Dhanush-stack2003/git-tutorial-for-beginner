@@ -1,1 +1,2 @@
-console.log("system set up")
+console.log("system set up");
+console.log("version 12")
